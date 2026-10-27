@@ -1,0 +1,1830 @@
+{
+  "materials": [
+    {
+      "id": "mat-coach-doc",
+      "fileName": "Graph_Algorithms.pdf",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Dijkstra's algorithm computes single-source shortest paths on graphs with non-negative edge weights using a greedy min-heap priority queue."
+        }
+      ],
+      "passages": [
+        {
+          "text": "Dijkstra's algorithm computes single-source shortest paths on graphs with non-negative edge weights using a greedy min-heap priority queue.",
+          "pageNumber": 1
+        }
+      ]
+    },
+    {
+      "id": "mat-1793090202641",
+      "fileName": "sample_lecture.pdf",
+      "fileSize": 690,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-27T08:36:42.641Z",
+      "status": "processed",
+      "hasExtractableText": true,
+      "isScannedImageOnly": false,
+      "pageCount": 1,
+      "wordCount": 14,
+      "topics": [
+        "Transactions & Concurrency Control"
+      ],
+      "summary": "Document containing 1 page(s) and ~14 words. Key concepts: Transactions & Concurrency Control.",
+      "sections": [
+        {
+          "sectionNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold and Wait, Semaphores.",
+          "wordCount": 14
+        }
+      ],
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold and Wait, Semaphores.",
+          "wordCount": 14
+        }
+      ],
+      "passages": [
+        {
+          "id": "pas-p1-1",
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold and Wait, Semaphores.",
+          "wordCount": 14
+        }
+      ],
+      "sampleExtractedText": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold and Wait, Semaphores.",
+      "warning": null
+    },
+    {
+      "id": "mat-coach-doc",
+      "fileName": "Graph_Algorithms.pdf",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Dijkstra's algorithm computes single-source shortest paths on graphs with non-negative edge weights using a greedy min-heap priority queue."
+        }
+      ],
+      "passages": [
+        {
+          "text": "Dijkstra's algorithm computes single-source shortest paths on graphs with non-negative edge weights using a greedy min-heap priority queue.",
+          "pageNumber": 1
+        }
+      ]
+    },
+    {
+      "id": "mat-test-1793090060595",
+      "fileName": "Distributed_Systems_Consensus.pdf",
+      "fileSize": 982,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-27T08:34:20.595Z",
+      "status": "processed",
+      "pageCount": 2,
+      "wordCount": 23,
+      "topics": [
+        "Distributed Consensus",
+        "Byzantine Fault Tolerance"
+      ],
+      "summary": "Distributed systems notes covering Raft and PBFT.",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture 1 on Distributed Consensus and Raft leader election invariants.",
+          "wordCount": 10
+        },
+        {
+          "pageNumber": 2,
+          "pageReference": "Page 2",
+          "text": "Page 2: Practical Byzantine Fault Tolerance requires 3f plus 1 total replica nodes.",
+          "wordCount": 13
+        }
+      ],
+      "passages": [
+        {
+          "id": "pas-p1-1",
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture 1 on Distributed Consensus and Raft leader election invariants.",
+          "wordCount": 10
+        },
+        {
+          "id": "pas-p2-1",
+          "pageNumber": 2,
+          "pageReference": "Page 2",
+          "text": "Page 2: Practical Byzantine Fault Tolerance requires 3f plus 1 total replica nodes.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "id": "mat-1793083770215",
+      "fileName": "GCP, GCE, GAE.pdf",
+      "fileSize": 1690348,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-27T06:49:30.215Z",
+      "status": "warning_image_only",
+      "hasExtractableText": false,
+      "isScannedImageOnly": true,
+      "pageCount": 4,
+      "wordCount": 0,
+      "topics": [
+        "GCP, GCE, GAE Core Concepts",
+        "Algorithmic Invariants",
+        "System Architecture"
+      ],
+      "summary": "Document containing 4 page(s). Note: Scanned raster images or slides detected without extractable digital text.",
+      "sections": [],
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "[Page 1: Raster image or scanned slide without extractable digital text]",
+          "wordCount": 0,
+          "isImageOnly": true
+        },
+        {
+          "pageNumber": 2,
+          "pageReference": "Page 2",
+          "text": "[Page 2: Raster image or scanned slide without extractable digital text]",
+          "wordCount": 0,
+          "isImageOnly": true
+        },
+        {
+          "pageNumber": 3,
+          "pageReference": "Page 3",
+          "text": "[Page 3: Raster image or scanned slide without extractable digital text]",
+          "wordCount": 0,
+          "isImageOnly": true
+        },
+        {
+          "pageNumber": 4,
+          "pageReference": "Page 4",
+          "text": "[Page 4: Raster image or scanned slide without extractable digital text]",
+          "wordCount": 0,
+          "isImageOnly": true
+        }
+      ],
+      "passages": [],
+      "sampleExtractedText": "-- 1 of 4 --\n\n\n\n-- 2 of 4 --\n\n\n\n-- 3 of 4 --\n\n\n\n-- 4 of 4 --",
+      "warning": "This document contains scanned images or slide graphics without extractable digital text fonts. EduPilot source-grounding requires digital text; citations cannot be verified against image-only documents."
+    },
+    {
+      "id": "mat-1793083163515",
+      "fileName": "sample_lecture.pdf",
+      "fileSize": 690,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-27T06:39:23.515Z",
+      "status": "processed",
+      "hasExtractableText": true,
+      "isScannedImageOnly": false,
+      "pageCount": 1,
+      "wordCount": 17,
+      "topics": [
+        "Transactions & Concurrency Control"
+      ],
+      "summary": "Document containing 1 page(s) and ~17 words. Key concepts: Transactions & Concurrency Control.",
+      "sections": [
+        {
+          "sectionNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an\n\n-- 1 of 1 --",
+          "wordCount": 17
+        }
+      ],
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an",
+          "wordCount": 12
+        }
+      ],
+      "passages": [
+        {
+          "id": "pas-p1-1",
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an",
+          "wordCount": 12
+        }
+      ],
+      "sampleExtractedText": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an\n\n-- 1 of 1 --",
+      "warning": null
+    },
+    {
+      "id": "mat-1793082768389",
+      "fileName": "sample_lecture.pdf",
+      "fileSize": 690,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-27T06:32:48.389Z",
+      "status": "processed",
+      "hasExtractableText": true,
+      "isScannedImageOnly": false,
+      "pageCount": 1,
+      "wordCount": 17,
+      "topics": [
+        "Transactions & Concurrency Control"
+      ],
+      "summary": "Document containing 1 page(s) and ~17 words. Key concepts: Transactions & Concurrency Control.",
+      "sections": [
+        {
+          "sectionNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an\n\n-- 1 of 1 --",
+          "wordCount": 17
+        }
+      ],
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an",
+          "wordCount": 12
+        }
+      ],
+      "passages": [
+        {
+          "id": "pas-p1-1",
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an",
+          "wordCount": 12
+        }
+      ],
+      "sampleExtractedText": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an\n\n-- 1 of 1 --",
+      "warning": null
+    },
+    {
+      "id": "mat-coach-doc",
+      "fileName": "Graph_Algorithms.pdf",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Dijkstra's algorithm computes single-source shortest paths on graphs with non-negative edge weights using a greedy min-heap priority queue."
+        }
+      ],
+      "passages": [
+        {
+          "text": "Dijkstra's algorithm computes single-source shortest paths on graphs with non-negative edge weights using a greedy min-heap priority queue.",
+          "pageNumber": 1
+        }
+      ]
+    },
+    {
+      "id": "mat-1793080266954",
+      "fileName": "sample_lecture.pdf",
+      "fileSize": 690,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-27T05:51:06.954Z",
+      "status": "processed",
+      "pageCount": 1,
+      "wordCount": 17,
+      "topics": [
+        "Transactions & Concurrency Control"
+      ],
+      "summary": "Document containing 1 page(s) and ~17 words. Key concepts: Transactions & Concurrency Control.",
+      "sections": [
+        {
+          "sectionNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an\n\n-- 1 of 1 --",
+          "wordCount": 17
+        }
+      ],
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an",
+          "wordCount": 12
+        }
+      ],
+      "passages": [
+        {
+          "id": "pas-p1-1",
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an",
+          "wordCount": 12
+        }
+      ],
+      "sampleExtractedText": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an\n\n-- 1 of 1 --"
+    },
+    {
+      "id": "mat-1793080249636",
+      "fileName": "sample_lecture.pdf",
+      "fileSize": 690,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-27T05:50:49.636Z",
+      "status": "processed",
+      "pageCount": 1,
+      "wordCount": 17,
+      "topics": [
+        "Transactions & Concurrency Control"
+      ],
+      "summary": "Document containing 1 page(s) and ~17 words. Key concepts: Transactions & Concurrency Control.",
+      "sections": [
+        {
+          "sectionNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an\n\n-- 1 of 1 --",
+          "wordCount": 17
+        }
+      ],
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an",
+          "wordCount": 12
+        }
+      ],
+      "passages": [
+        {
+          "id": "pas-p1-1",
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an",
+          "wordCount": 12
+        }
+      ],
+      "sampleExtractedText": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an\n\n-- 1 of 1 --"
+    },
+    {
+      "id": "mat-1793080145320",
+      "fileName": "sample_lecture.pdf",
+      "fileSize": 690,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-27T05:49:05.320Z",
+      "status": "processed",
+      "pageCount": 1,
+      "wordCount": 17,
+      "topics": [
+        "Transactions & Concurrency Control"
+      ],
+      "summary": "Document containing 1 page(s) and ~17 words. Key concepts: Transactions & Concurrency Control.",
+      "sections": [
+        {
+          "sectionNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an\n\n-- 1 of 1 --",
+          "wordCount": 17
+        }
+      ],
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an",
+          "wordCount": 12
+        }
+      ],
+      "passages": [
+        {
+          "id": "pas-p1-1",
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an",
+          "wordCount": 12
+        }
+      ],
+      "sampleExtractedText": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an\n\n-- 1 of 1 --"
+    },
+    {
+      "id": "mat-1793080060860",
+      "fileName": "GCP, GCE, GAE.pdf",
+      "fileSize": 1690348,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-27T05:47:40.860Z",
+      "status": "warning_image_only",
+      "pageCount": 4,
+      "wordCount": 20,
+      "topics": [
+        "GCP, GCE, GAE Core Concepts",
+        "Algorithmic Invariants",
+        "System Architecture"
+      ],
+      "summary": "Document containing 4 page(s) and ~20 words. Key concepts: GCP, GCE, GAE Core Concepts, Algorithmic Invariants, System Architecture.",
+      "sections": [
+        {
+          "sectionNumber": 1,
+          "pageReference": "Page 1",
+          "text": "-- 1 of 4 --\n\n-- 2 of 4 --\n\n-- 3 of 4 --\n\n-- 4 of 4 --",
+          "wordCount": 20
+        }
+      ],
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "-- 1 of 4 --\n\n\n\n-- 2 of 4 --\n\n\n\n-- 3 of 4 --\n\n\n\n-- 4 of 4 --",
+          "wordCount": 20
+        }
+      ],
+      "passages": [],
+      "sampleExtractedText": "-- 1 of 4 --\n\n\n\n-- 2 of 4 --\n\n\n\n-- 3 of 4 --\n\n\n\n-- 4 of 4 --",
+      "hasExtractableText": false,
+      "isScannedImageOnly": true,
+      "warning": "This document contains scanned slides or raster images without digital text. EduPilot source-grounding requires digital text."
+    },
+    {
+      "id": "mat-1793079969642",
+      "fileName": "PCITT501-Machine Learning-KTUNOTES.LIVE.pdf",
+      "fileSize": 1432919,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-27T05:46:09.643Z",
+      "status": "processed",
+      "pageCount": 4,
+      "wordCount": 802,
+      "topics": [
+        "PCITT501 Machine Learning KTUNOTES.LIVE Core Concepts",
+        "Algorithmic Invariants",
+        "System Architecture"
+      ],
+      "summary": "Document containing 4 page(s) and ~802 words. Key concepts: PCITT501 Machine Learning KTUNOTES.LIVE Core Concepts, Algorithmic Invariants, System Architecture.",
+      "sections": [
+        {
+          "sectionNumber": 1,
+          "pageReference": "Page 1",
+          "text": "KTUNOTES.LIVE\tKTUNOTES.LIVE\tKTUNOTES.LIVE\tKTUNOTES.LIVE\nCLICK TO JOIN\tCLICK TO JOINSOCIAL MEDIAS\tSOCIAL MEDIAS\nWhatsapp\tWhatsapp\n2024 SCHEME NOTES\t2024 SCHEME NOTES\t2024 SCHEME NOTES\t2024 SCHEME NOTES\n(For notes updates get instantly\t(For notes updates get instantly\t(For notes updates get instantly\nand for discussion)\tand for discussion)\tand for discussion)\n(For notes updates get instantly\nand for discussion)\nTelegram\tTelegram(For notes updates and discussions\t(For notes updates and discussions\t(For notes updates and discussions\ninternship offers)\tinternship offers)\tinternship offers)\n(For notes updates and discussions\ninternship offers)\nInstagram\tInstagram(For notification updates)\t(For notification updates)\t(For notification updates)\t(For notification updates)\nWebsite\tWebsite(enter and get more resources\t(enter and get more resources\t(enter and get more resources\nfrom our website )\tfrom our website )\tfrom our website )\n(enter and get more resources\nfrom our website )\nSearch bot\tSearch bot(to search notes very fastly)\t(to search notes very fastly)\t(to search notes very fastly)\t(to search notes very fastly)\n\n-- 1 of 4 --\n\nMODEL QUESTION PAPER\nAPJ ABDUL KALAM TECHNOLOGICAL UNIVERSITY\nFIFTH SEMESTER B. TECH DEGREE EXAMINATION, MONTH AND YEAR\nCourse Code: PCITT501\nCourse Name: Machine Learning\nMax. Marks: 60 \tDuration: 2 hours 30 minutes\nPART A\nAnswer all questions. Each question carries 3 marks \tCO Marks\n1 \tDefine supervised and unsupervised learning with one example each \tCO1 (3)\n2 \tExplain the concept of bias in the context of model estimation. \tCO1 (3)\n3 \tWhat is the purpose of the gradient descent algorithm in linear regression? \tCO2 (3)\n4 \tWhat is entropy in the context of decision trees \tCO2 (3)\n5 \tDifferentiate between hard-margin and soft-margin SVMs. \tCO2 (3)\n6 \tList any three commonly used activation functions in neural networks. \tCO2 (3)\n7 \tCompare the characteristics of density-based clustering and K-means\nclustering.\nCO3 (3)\n8 \tDifferentiate between Monte Carlo learning and Temporal Difference (TD)\nlearning in reinforcement learning.\nCO4 (3)\nPART B\nAnswer any one full question from each module. Each question carries 9 marks\nModule 1\n9 a) Explain the various types of learning paradigms in machine learning\nwith suitable examples.\nAlso, classify the following applications under appropriate learning types:\ni) Spam detection in email\nii) Self-driving car learning from interaction\niii) Clustering of customer behavior\nCO1 (5)\nb) Derive the Maximum Likelihood Estimator for the mean (μ) of a\nGaussian distribution with known variance (σ²).\nGiven the data points: 4.2, 5.0, 6.1, 5.5, 4.8, calculate the MLE for μ.\nCO1 (4)\n10 a) Describe the steps of Principal Component Analysis (PCA). How does it\nreduce dimensionality?\nGiven the 2D data points: (2, 0), (0, 2), (-2, 0), (0, -2), find the principal\ndirec\u0000ons and explain the transforma\u0000on\nCO1 (9)\nPage 1of 2\nDownloaded from KTUNOTES.LIVE\n\n-- 2 of 4 --\n\nModule 2\n11 a) A classifier has the following confusion matrix:\nPredicted Posi\u0000ve \tPredicted Nega\u0000ve\nActual Pos. 40 \t10\nActual Neg. 20 \t30\nCalculate accuracy, precision, recall, and F1-score.\nCO2 (5)\nb) Describe the ID3 algorithm. What feature selection measure does it use CO2 (4)\n12 a) Compare bagging and boosting in ensemble learning \tCO2 (5)\nb) State purpose of cross validation in model evaluation. \tCO2 (4)\nModule 3\n13 a) Describe the working of the Perceptron Algorithm. \tCO2 (5)\nb) Evaluate the effectiveness of the backpropagation algorithm in training\na feed-forward neural network\nCO2 (4)\n14 a) Explain the concept of the kernel trick in Support Vector Machines\n(SVM)\nCO2 (5)\nb) Describe the architecture of a Feed Forward Neural Network with neat\ndiagram\nCO2 (4)\nModule 4\n15 a) List the main steps involved in the K-means clustering algorithm. \tCO3 (5)\nb) Describe the structure of a Convolutional Neural Network (CNN),\nhighlighting the roles of convolution layers, pooling layers, and\nactivation functions.\nCO4 (4)\n16 a) Explain the architecture of a Transformer model. \tCO3 (5)\nb) Identify the components of a Q-learning algorithm \tCO4 (4)\n*****\nPage 2of 2\nDownloaded from KTUNOTES.LIVE",
+          "wordCount": 649
+        },
+        {
+          "sectionNumber": 2,
+          "pageReference": "Page 4",
+          "text": "-- 3 of 4 --\n\nPYQCLICK HERE TO GET ALL THE\nPYQ OF KTU\nCLICK HERE TO GET\nSYLLABUS OF 2024 SCHEME\nKTU SUBJECT WISE\nCLICK HERE TO CHECK\nTHE LATEST\nANNOUCEMENT OF KTU\nCLICK HERE TO GET THE\nMODEL PAPPERS OF KTU\nCLICK HERE TO CHECK\nACTIVITY POINTS 2024\nSCHEME DETAILS\nCLICK HERE TO JOIN OUR\nWHATSAPP CHANNEL\n(FOR LATEST UPDATES FAST )\nCLICK HERE TO CHECK\nIMPORTANT TOPICS FOR\nEXAM\nCLICK HERE TO VISIT OUR WEBSITE\tCLICK HERE TO VISIT OUR WEBSITE\tCLICK HERE TO VISIT OUR WEBSITE\tCLICK HERE TO VISIT OUR WEBSITE\nCLICK THE LOGO TO JOIN IN OUR SOCIAL MEDIAS FOR UPDATES\tCLICK THE LOGO TO JOIN IN OUR SOCIAL MEDIAS FOR UPDATES\tCLICK THE LOGO TO JOIN IN OUR SOCIAL MEDIAS FOR UPDATES\tCLICK THE LOGO TO JOIN IN OUR SOCIAL MEDIAS FOR UPDATES\nKTUNOTES.LIVE\tKTUNOTES.LIVE\nCLICK HERE TO USE\nCGPA/SGPA CALCULATORS\n\n-- 4 of 4 --",
+          "wordCount": 153
+        }
+      ],
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "KTUNOTES.LIVE\tKTUNOTES.LIVE\tKTUNOTES.LIVE\tKTUNOTES.LIVE\nCLICK TO JOIN\tCLICK TO JOINSOCIAL MEDIAS\tSOCIAL MEDIAS\nWhatsapp\tWhatsapp\n2024 SCHEME NOTES\t2024 SCHEME NOTES\t2024 SCHEME NOTES\t2024 SCHEME NOTES\n(For notes updates get instantly\t(For notes updates get instantly\t(For notes updates get instantly\nand for discussion)\tand for discussion)\tand for discussion)\n(For notes updates get instantly\nand for discussion)\nTelegram\tTelegram(For notes updates and discussions\t(For notes updates and discussions\t(For notes updates and discussions\ninternship offers)\tinternship offers)\tinternship offers)\n(For notes updates and discussions\ninternship offers)\nInstagram\tInstagram(For notification updates)\t(For notification updates)\t(For notification updates)\t(For notification updates)\nWebsite\tWebsite(enter and get more resources\t(enter and get more resources\t(enter and get more resources\nfrom our website )\tfrom our website )\tfrom our website )\n(enter and get more resources\nfrom our website )\nSearch bot\tSearch bot(to search notes very fastly)\t(to search notes very fastly)\t(to search notes very fastly)\t(to search notes very fastly)",
+          "wordCount": 161
+        },
+        {
+          "pageNumber": 2,
+          "pageReference": "Page 2",
+          "text": "MODEL QUESTION PAPER\nAPJ ABDUL KALAM TECHNOLOGICAL UNIVERSITY\nFIFTH SEMESTER B. TECH DEGREE EXAMINATION, MONTH AND YEAR\nCourse Code: PCITT501\nCourse Name: Machine Learning\nMax. Marks: 60 \tDuration: 2 hours 30 minutes\nPART A\nAnswer all questions. Each question carries 3 marks \tCO Marks\n1 \tDefine supervised and unsupervised learning with one example each \tCO1 (3)\n2 \tExplain the concept of bias in the context of model estimation. \tCO1 (3)\n3 \tWhat is the purpose of the gradient descent algorithm in linear regression? \tCO2 (3)\n4 \tWhat is entropy in the context of decision trees \tCO2 (3)\n5 \tDifferentiate between hard-margin and soft-margin SVMs. \tCO2 (3)\n6 \tList any three commonly used activation functions in neural networks. \tCO2 (3)\n7 \tCompare the characteristics of density-based clustering and K-means\nclustering.\nCO3 (3)\n8 \tDifferentiate between Monte Carlo learning and Temporal Difference (TD)\nlearning in reinforcement learning.\nCO4 (3)\nPART B\nAnswer any one full question from each module. Each question carries 9 marks\nModule 1\n9 a) Explain the various types of learning paradigms in machine learning\nwith suitable examples.\nAlso, classify the following applications under appropriate learning types:\ni) Spam detection in email\nii) Self-driving car learning from interaction\niii) Clustering of customer behavior\nCO1 (5)\nb) Derive the Maximum Likelihood Estimator for the mean (μ) of a\nGaussian distribution with known variance (σ²).\nGiven the data points: 4.2, 5.0, 6.1, 5.5, 4.8, calculate the MLE for μ.\nCO1 (4)\n10 a) Describe the steps of Principal Component Analysis (PCA). How does it\nreduce dimensionality?\nGiven the 2D data points: (2, 0), (0, 2), (-2, 0), (0, -2), find the principal\ndirec\u0000ons and explain the transforma\u0000on\nCO1 (9)\nPage 1of 2\nDownloaded from KTUNOTES.LIVE",
+          "wordCount": 284
+        },
+        {
+          "pageNumber": 3,
+          "pageReference": "Page 3",
+          "text": "Module 2\n11 a) A classifier has the following confusion matrix:\nPredicted Posi\u0000ve \tPredicted Nega\u0000ve\nActual Pos. 40 \t10\nActual Neg. 20 \t30\nCalculate accuracy, precision, recall, and F1-score.\nCO2 (5)\nb) Describe the ID3 algorithm. What feature selection measure does it use CO2 (4)\n12 a) Compare bagging and boosting in ensemble learning \tCO2 (5)\nb) State purpose of cross validation in model evaluation. \tCO2 (4)\nModule 3\n13 a) Describe the working of the Perceptron Algorithm. \tCO2 (5)\nb) Evaluate the effectiveness of the backpropagation algorithm in training\na feed-forward neural network\nCO2 (4)\n14 a) Explain the concept of the kernel trick in Support Vector Machines\n(SVM)\nCO2 (5)\nb) Describe the architecture of a Feed Forward Neural Network with neat\ndiagram\nCO2 (4)\nModule 4\n15 a) List the main steps involved in the K-means clustering algorithm. \tCO3 (5)\nb) Describe the structure of a Convolutional Neural Network (CNN),\nhighlighting the roles of convolution layers, pooling layers, and\nactivation functions.\nCO4 (4)\n16 a) Explain the architecture of a Transformer model. \tCO3 (5)\nb) Identify the components of a Q-learning algorithm \tCO4 (4)\n*****\nPage 2of 2\nDownloaded from KTUNOTES.LIVE",
+          "wordCount": 194
+        },
+        {
+          "pageNumber": 4,
+          "pageReference": "Page 4",
+          "text": "PYQCLICK HERE TO GET ALL THE\nPYQ OF KTU\nCLICK HERE TO GET\nSYLLABUS OF 2024 SCHEME\nKTU SUBJECT WISE\nCLICK HERE TO CHECK\nTHE LATEST\nANNOUCEMENT OF KTU\nCLICK HERE TO GET THE\nMODEL PAPPERS OF KTU\nCLICK HERE TO CHECK\nACTIVITY POINTS 2024\nSCHEME DETAILS\nCLICK HERE TO JOIN OUR\nWHATSAPP CHANNEL\n(FOR LATEST UPDATES FAST )\nCLICK HERE TO CHECK\nIMPORTANT TOPICS FOR\nEXAM\nCLICK HERE TO VISIT OUR WEBSITE\tCLICK HERE TO VISIT OUR WEBSITE\tCLICK HERE TO VISIT OUR WEBSITE\tCLICK HERE TO VISIT OUR WEBSITE\nCLICK THE LOGO TO JOIN IN OUR SOCIAL MEDIAS FOR UPDATES\tCLICK THE LOGO TO JOIN IN OUR SOCIAL MEDIAS FOR UPDATES\tCLICK THE LOGO TO JOIN IN OUR SOCIAL MEDIAS FOR UPDATES\tCLICK THE LOGO TO JOIN IN OUR SOCIAL MEDIAS FOR UPDATES\nKTUNOTES.LIVE\tKTUNOTES.LIVE\nCLICK HERE TO USE\nCGPA/SGPA CALCULATORS",
+          "wordCount": 143
+        }
+      ],
+      "passages": [
+        {
+          "id": "pas-p1-1",
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "KTUNOTES.LIVE KTUNOTES.LIVE KTUNOTES.LIVE KTUNOTES.LIVE CLICK TO JOIN CLICK TO JOINSOCIAL MEDIAS SOCIAL MEDIAS Whatsapp Whatsapp 2024 SCHEME NOTES 2024 SCHEME NOTES 2024 SCHEME NOTES 2024 SCHEME NOTES (For notes updates get instantly (For notes updates get instantly (For notes updates get instantly and for discussion) and for discussion) and for discussion) (For notes updates get instantly and for discussion) Telegram Telegram(For notes updates and discussions (For notes updates and discussions (For notes updates and discussions internship offers) internship offers) internship offers) (For notes updates and discussions internship offers) Instagram Instagram(For notification updates) (For notification updates) (For notification updates) (For notification updates) Website Website(enter and get more resources (enter and get more resources (enter and get more resources from our website ) from our website ) from our website ) (enter and get more resources from our website ) Search bot Search bot(to search notes very fastly) (to search notes very fastly) (to search notes very fastly) (to search notes very fastly)",
+          "wordCount": 161
+        },
+        {
+          "id": "pas-p2-1",
+          "pageNumber": 2,
+          "pageReference": "Page 2",
+          "text": "MODEL QUESTION PAPER APJ ABDUL KALAM TECHNOLOGICAL UNIVERSITY FIFTH SEMESTER B. TECH DEGREE EXAMINATION, MONTH AND YEAR Course Code: PCITT501 Course Name: Machine Learning Max. Marks: 60 Duration: 2 hours 30 minutes PART A Answer all questions. Each question carries 3 marks CO Marks 1 Define supervised and unsupervised learning with one example each CO1 (3) 2 Explain the concept of bias in the context of model estimation. CO1 (3) 3 What is the purpose of the gradient descent algorithm in linear regression? CO2 (3) 4 What is entropy in the context of decision trees CO2 (3) 5 Differentiate between hard-margin and soft-margin SVMs. CO2 (3) 6 List any three commonly used activation functions in neural networks. CO2 (3) 7 Compare the characteristics of density-based clustering and K-means clustering. CO3 (3) 8 Differentiate between Monte Carlo learning and Temporal Difference (TD) learning in reinforcement learning. CO4 (3) PART B Answer any one full question from each module. Each question carries 9 marks Module 1 9 a) Explain the various types of learning paradigms in machine learning with suitable examples. Also, classify the following applications under appropriate learning types: i) Spam detection in email ii) Self-driving car learning from interaction iii) Clustering of customer behavior CO1 (5) b) Derive the Maximum Likelihood Estimator for the mean (μ) of a Gaussian distribution with known variance (σ²). Given the data points: 4.2, 5.0, 6.1, 5.5, 4.8, calculate the MLE for μ. CO1 (4) 10 a) Describe the steps of Principal Component Analysis (PCA). How does it reduce dimensionality? Given the 2D data points: (2, 0), (0, 2), (-2, 0), (0, -2), find the principal direc\u0000ons and explain the transforma\u0000on CO1 (9) Page 1of 2 Downloaded from KTUNOTES.LIVE",
+          "wordCount": 284
+        },
+        {
+          "id": "pas-p3-1",
+          "pageNumber": 3,
+          "pageReference": "Page 3",
+          "text": "Module 2 11 a) A classifier has the following confusion matrix: Predicted Posi\u0000ve Predicted Nega\u0000ve Actual Pos. 40 10 Actual Neg. 20 30 Calculate accuracy, precision, recall, and F1-score. CO2 (5) b) Describe the ID3 algorithm. What feature selection measure does it use CO2 (4) 12 a) Compare bagging and boosting in ensemble learning CO2 (5) b) State purpose of cross validation in model evaluation. CO2 (4) Module 3 13 a) Describe the working of the Perceptron Algorithm. CO2 (5) b) Evaluate the effectiveness of the backpropagation algorithm in training a feed-forward neural network CO2 (4) 14 a) Explain the concept of the kernel trick in Support Vector Machines (SVM) CO2 (5) b) Describe the architecture of a Feed Forward Neural Network with neat diagram CO2 (4) Module 4 15 a) List the main steps involved in the K-means clustering algorithm. CO3 (5) b) Describe the structure of a Convolutional Neural Network (CNN), highlighting the roles of convolution layers, pooling layers, and activation functions. CO4 (4) 16 a) Explain the architecture of a Transformer model. CO3 (5) b) Identify the components of a Q-learning algorithm CO4 (4) ***** Page 2of 2 Downloaded from KTUNOTES.LIVE",
+          "wordCount": 194
+        },
+        {
+          "id": "pas-p4-1",
+          "pageNumber": 4,
+          "pageReference": "Page 4",
+          "text": "PYQCLICK HERE TO GET ALL THE PYQ OF KTU CLICK HERE TO GET SYLLABUS OF 2024 SCHEME KTU SUBJECT WISE CLICK HERE TO CHECK THE LATEST ANNOUCEMENT OF KTU CLICK HERE TO GET THE MODEL PAPPERS OF KTU CLICK HERE TO CHECK ACTIVITY POINTS 2024 SCHEME DETAILS CLICK HERE TO JOIN OUR WHATSAPP CHANNEL (FOR LATEST UPDATES FAST ) CLICK HERE TO CHECK IMPORTANT TOPICS FOR EXAM CLICK HERE TO VISIT OUR WEBSITE CLICK HERE TO VISIT OUR WEBSITE CLICK HERE TO VISIT OUR WEBSITE CLICK HERE TO VISIT OUR WEBSITE CLICK THE LOGO TO JOIN IN OUR SOCIAL MEDIAS FOR UPDATES CLICK THE LOGO TO JOIN IN OUR SOCIAL MEDIAS FOR UPDATES CLICK THE LOGO TO JOIN IN OUR SOCIAL MEDIAS FOR UPDATES CLICK THE LOGO TO JOIN IN OUR SOCIAL MEDIAS FOR UPDATES KTUNOTES.LIVE KTUNOTES.LIVE CLICK HERE TO USE CGPA/SGPA CALCULATORS",
+          "wordCount": 143
+        }
+      ],
+      "sampleExtractedText": "KTUNOTES.LIVE\tKTUNOTES.LIVE\tKTUNOTES.LIVE\tKTUNOTES.LIVE\nCLICK TO JOIN\tCLICK TO JOINSOCIAL MEDIAS\tSOCIAL MEDIAS\nWhatsapp\tWhatsapp\n2024 SCHEME NOTES\t2024 SCHEME NOTES\t2024 SCHEME NOTES\t2024 SCHEME NOTES\n(For notes updates get instantly\t(For notes updates get instantly\t(For notes updates get instantly\nand for discussion)\tand for discussion)\tand for discussion)\n(For notes updates get instantly\nand for discussion)\nTelegram\tTelegram(For notes updates and discussions\t(For notes updates and discussions\t(For notes updates and discussions\ninternship offers)\tinternship offers)\tinternship offers)\n(For notes updates and discussions\ninternship offers)\nInstagram\tInstagram(For notification updates)\t(For notification updates)\t(For notification updates)\t(For notification updates)\nWebsite\tWebsite(enter and g"
+    },
+    {
+      "id": "mat-coach-doc",
+      "fileName": "Graph_Algorithms.pdf",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Dijkstra's algorithm computes single-source shortest paths on graphs with non-negative edge weights using a greedy min-heap priority queue."
+        }
+      ],
+      "passages": [
+        {
+          "text": "Dijkstra's algorithm computes single-source shortest paths on graphs with non-negative edge weights using a greedy min-heap priority queue.",
+          "pageNumber": 1
+        }
+      ]
+    },
+    {
+      "id": "mat-coach-doc",
+      "fileName": "Graph_Algorithms.pdf",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "text": "Dijkstra's algorithm computes single-source shortest paths on graphs with non-negative edge weights using a greedy min-heap priority queue."
+        }
+      ],
+      "passages": [
+        {
+          "text": "Dijkstra's algorithm computes single-source shortest paths on graphs with non-negative edge weights using a greedy min-heap priority queue.",
+          "pageNumber": 1
+        }
+      ]
+    },
+    {
+      "id": "mat-test-1793077499886",
+      "fileName": "Distributed_Systems_Consensus.pdf",
+      "fileSize": 982,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-27T05:04:59.886Z",
+      "status": "processed",
+      "pageCount": 2,
+      "wordCount": 33,
+      "topics": [
+        "Distributed Consensus",
+        "Byzantine Fault Tolerance"
+      ],
+      "summary": "Distributed systems notes covering Raft and PBFT.",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture 1 on Distributed Consensus and Raft leader election invariants.",
+          "wordCount": 10
+        },
+        {
+          "pageNumber": 2,
+          "pageReference": "Page 2",
+          "text": "Page 2: Practical Byzantine Fault Tolerance requires 3f plus 1 total replica nodes.",
+          "wordCount": 13
+        }
+      ],
+      "passages": [
+        {
+          "id": "pas-p1-1",
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture 1 on Distributed Consensus and Raft leader election invariants.",
+          "wordCount": 10
+        },
+        {
+          "id": "pas-p2-1",
+          "pageNumber": 2,
+          "pageReference": "Page 2",
+          "text": "Page 2: Practical Byzantine Fault Tolerance requires 3f plus 1 total replica nodes.",
+          "wordCount": 13
+        }
+      ]
+    },
+    {
+      "id": "mat-1793075115837",
+      "fileName": "sample_lecture.pdf",
+      "fileSize": 690,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-27T04:25:15.837Z",
+      "status": "processed",
+      "pageCount": 1,
+      "wordCount": 17,
+      "topics": [
+        "Transactions & Concurrency Control"
+      ],
+      "summary": "Document containing 1 page(s) and ~17 words. Key concepts: Transactions & Concurrency Control.",
+      "sections": [
+        {
+          "sectionNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an\n\n-- 1 of 1 --",
+          "wordCount": 17
+        }
+      ],
+      "sampleExtractedText": "Lecture on Operating Systems Concurrency: Coffman Deadlock Conditions. Mutual Exclusion, Hold an\n\n-- 1 of 1 --"
+    },
+    {
+      "id": "mat-demo-1",
+      "fileName": "CS204_Graph_Algorithms_and_Shortest_Paths.pdf",
+      "fileSize": 245890,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-26T14:30:00.000Z",
+      "status": "processed",
+      "pageCount": 14,
+      "topics": [
+        "Graph Traversal (BFS & DFS)",
+        "Dijkstra's Algorithm & Priority Queues",
+        "Negative Edge Cycles & Bellman-Ford",
+        "A* Search & Admissible Heuristics",
+        "Topological Sort Shortest Path in DAGs"
+      ],
+      "summary": "Comprehensive lecture slides covering single-source shortest path algorithms, min-heap implementations, negative edge cycle detection, and DAG linear time relaxation.",
+      "sampleExtractedText": "Lecture 8: Graph Traversal & Shortest Path Algorithms.\nDijkstra's Algorithm solves the single-source shortest path problem on weighted directed or undirected graphs where all edge weights are non-negative.\nInvariant: When a vertex u is settled and removed from the Priority Queue, dist[u] is guaranteed to be minimal.\nFailure Mode: If negative edge weights are present, earlier greedy settlements can be violated by delayed negative paths.\nAlternative: Use Bellman-Ford algorithm in O(V * E) time to detect negative weight cycles.\nOptimization: In Directed Acyclic Graphs (DAGs), relaxing vertices in topological order achieves single-source shortest path in O(V + E) linear time.",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture 8: Graph Traversal & Shortest Path Algorithms. Dijkstra's Algorithm solves the single-source shortest path problem on weighted directed or undirected graphs where all edge weights are non-negative."
+        },
+        {
+          "pageNumber": 2,
+          "pageReference": "Page 2",
+          "text": "Invariant: When a vertex u is settled and removed from the Priority Queue, dist[u] is guaranteed to be minimal. Greedy Settlement: Once relaxed into the settled set, dist[u] will never decrease."
+        },
+        {
+          "pageNumber": 3,
+          "pageReference": "Page 3",
+          "text": "Failure Mode: If negative edge weights are present, earlier greedy settlements can be violated by delayed negative paths. Negative Cycles: Cycles with negative sum cause distances to decrease continuously without convergence."
+        },
+        {
+          "pageNumber": 4,
+          "pageReference": "Page 4",
+          "text": "Alternative: Use Bellman-Ford algorithm in O(V * E) time to detect negative weight cycles. Optimization: In Directed Acyclic Graphs (DAGs), relaxing vertices in topological order achieves single-source shortest path in O(V + E) linear time."
+        }
+      ],
+      "passages": [
+        {
+          "id": "pas-mat1-p1-1",
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture 8: Graph Traversal & Shortest Path Algorithms. Dijkstra's Algorithm solves the single-source shortest path problem on weighted directed or undirected graphs where all edge weights are non-negative."
+        },
+        {
+          "id": "pas-mat1-p2-1",
+          "pageNumber": 2,
+          "pageReference": "Page 2",
+          "text": "Invariant: When a vertex u is settled and removed from the Priority Queue, dist[u] is guaranteed to be minimal. Greedy Settlement: Once relaxed into the settled set, dist[u] will never decrease."
+        },
+        {
+          "id": "pas-mat1-p3-1",
+          "pageNumber": 3,
+          "pageReference": "Page 3",
+          "text": "Failure Mode: If negative edge weights are present, earlier greedy settlements can be violated by delayed negative paths. Negative Cycles: Cycles with negative sum cause distances to decrease continuously without convergence."
+        },
+        {
+          "id": "pas-mat1-p4-1",
+          "pageNumber": 4,
+          "pageReference": "Page 4",
+          "text": "Alternative: Use Bellman-Ford algorithm in O(V * E) time to detect negative weight cycles. Optimization: In Directed Acyclic Graphs (DAGs), relaxing vertices in topological order achieves single-source shortest path in O(V + E) linear time."
+        }
+      ]
+    },
+    {
+      "id": "mat-demo-2",
+      "fileName": "CS305_Database_Storage_Engines_and_BPlus_Trees.pdf",
+      "fileSize": 412800,
+      "mimeType": "application/pdf",
+      "uploadedAt": "2026-10-25T10:15:00.000Z",
+      "status": "processed",
+      "pageCount": 22,
+      "topics": [
+        "B+ Tree Index Structures",
+        "Disk Block I/O Alignment & High Fanout",
+        "Range Scans & Leaf Doubly Linked Lists",
+        "ACID Isolation Levels & MVCC",
+        "Two-Phase Locking (2PL)"
+      ],
+      "summary": "Database storage engine architecture notes covering high fan-out B+ Tree indexing, disk page retrieval, leaf node linked list traversal, and concurrency control.",
+      "sampleExtractedText": "Lecture 12: Database Storage Architecture & Indices.\nWhy B+ Trees? Modern storage devices transfer data in fixed disk blocks (typically 4KB to 16KB).\nA high fan-out node fits hundreds of keys into one disk page, limiting tree depth to 3-4 levels for millions of records.\nLeaf nodes are linked in a bidirectional list, allowing O(1) sequential range query scans once the starting boundary key is located.",
+      "pages": [
+        {
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture 12: Database Storage Architecture & Indices. Why B+ Trees? Modern storage devices transfer data in fixed disk blocks (typically 4KB to 16KB)."
+        },
+        {
+          "pageNumber": 2,
+          "pageReference": "Page 2",
+          "text": "Disk Block Alignment & High Fan-Out: A high fan-out node fits hundreds of keys into one disk page, limiting tree depth to 3-4 levels for millions of records."
+        },
+        {
+          "pageNumber": 3,
+          "pageReference": "Page 3",
+          "text": "Range Scans & Leaf Doubly Linked Lists: Leaf nodes are linked in a bidirectional list, allowing O(1) sequential range query scans once the starting boundary key is located."
+        },
+        {
+          "pageNumber": 4,
+          "pageReference": "Page 4",
+          "text": "Concurrency Control & 2PL: Two-Phase Locking ensures serializability (ACID Isolation) across concurrent transaction read/write sets."
+        }
+      ],
+      "passages": [
+        {
+          "id": "pas-mat2-p1-1",
+          "pageNumber": 1,
+          "pageReference": "Page 1",
+          "text": "Lecture 12: Database Storage Architecture & Indices. Why B+ Trees? Modern storage devices transfer data in fixed disk blocks (typically 4KB to 16KB)."
+        },
+        {
+          "id": "pas-mat2-p2-1",
+          "pageNumber": 2,
+          "pageReference": "Page 2",
+          "text": "Disk Block Alignment & High Fan-Out: A high fan-out node fits hundreds of keys into one disk page, limiting tree depth to 3-4 levels for millions of records."
+        },
+        {
+          "id": "pas-mat2-p3-1",
+          "pageNumber": 3,
+          "pageReference": "Page 3",
+          "text": "Range Scans & Leaf Doubly Linked Lists: Leaf nodes are linked in a bidirectional list, allowing O(1) sequential range query scans once the starting boundary key is located."
+        },
+        {
+          "id": "pas-mat2-p4-1",
+          "pageNumber": 4,
+          "pageReference": "Page 4",
+          "text": "Concurrency Control & 2PL: Two-Phase Locking ensures serializability (ACID Isolation) across concurrent transaction read/write sets."
+        }
+      ]
+    }
+  ],
+  "quizzes": [
+    {
+      "id": "quiz-gen-1793075135297",
+      "materialId": "mat-1793075115837",
+      "title": "Transactions & Concurrency Control Adaptive Quiz",
+      "subject": "Computer Science",
+      "difficulty": "Adaptive",
+      "duration": "4 mins",
+      "questions": [
+        {
+          "id": "gen-q-1793075135297-5",
+          "question": "What are the four necessary Coffman conditions required for a system deadlock to occur?",
+          "options": [
+            "Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait",
+            "Starvation, Race Condition, Paging, Context Switch",
+            "Deadlock, Livelock, Priority Inversion, Thrashing",
+            "Atomic operations, Semaphores, Mutexes, Spinlocks"
+          ],
+          "correctAnswer": 0,
+          "explanation": "Deadlock can only arise if all 4 Coffman conditions hold simultaneously: Mutual Exclusion, Hold and Wait, No Preemption, and Circular Wait. Breaking any one condition prevents deadlock.",
+          "topic": "Coffman Deadlock Conditions",
+          "difficulty": "Hard",
+          "pageReference": "Page 8"
+        },
+        {
+          "id": "gen-q-1793075135297-fallback-1",
+          "question": "In computational complexity analysis, what distinguishes a greedy algorithm from dynamic programming?",
+          "options": [
+            "A greedy algorithm makes the locally optimal choice at each stage without re-evaluating previous decisions, whereas DP examines subproblems comprehensively.",
+            "Greedy algorithms always run in O(N!) factorial time.",
+            "Dynamic programming requires adjacency matrices.",
+            "Greedy algorithms cannot be implemented iteratively."
+          ],
+          "correctAnswer": 0,
+          "explanation": "Greedy algorithms make a irrevocably local optimal choice hoping for a global optimum. Dynamic programming solves overlapping subproblems by memoizing states.",
+          "topic": "Greedy vs Dynamic Programming",
+          "difficulty": "Medium",
+          "pageReference": "Section 1"
+        }
+      ],
+      "generatedBy": "edupilot-deterministic-engine"
+    },
+    {
+      "id": "quiz-gen-1793074433860",
+      "materialId": "mat-demo-1",
+      "title": "Graph Traversal (BFS & DFS) Adaptive Quiz",
+      "subject": "Computer Science",
+      "difficulty": "Adaptive",
+      "duration": "6 mins",
+      "questions": [
+        {
+          "id": "gen-q-1793074433860-1",
+          "question": "Why does standard Dijkstra's algorithm fail when a graph contains negative-weight edge cycles?",
+          "options": [
+            "It causes distances to continuously decrease without convergence, violating greedy settlement invariants.",
+            "The priority queue becomes corrupted with negative keys.",
+            "It visits vertices in random topological order instead of by distance.",
+            "It requires adjacency matrices and cannot support negative weights."
+          ],
+          "correctAnswer": 0,
+          "explanation": "Dijkstra's greedy choice assumes that once a node is extracted from the Priority Queue, no shorter path to it will ever be discovered. Negative cycles continuously lower distance, violating this invariant.",
+          "topic": "Dijkstra Negative Edges",
+          "difficulty": "Hard",
+          "pageReference": "Page 4"
+        },
+        {
+          "id": "gen-q-1793074433860-2",
+          "question": "What is the optimal time complexity of Dijkstra's algorithm implemented with a Min-Heap (Binary Heap) for a graph with V vertices and E edges?",
+          "options": [
+            "O(V^2)",
+            "O((V + E) log V)",
+            "O(V * E)",
+            "O(E log E + V)"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Each vertex is extracted from the min-heap once (O(V log V)) and each edge can trigger a decrease-key operation in the heap (O(E log V)), yielding total time complexity O((V + E) log V).",
+          "topic": "Heap Complexity",
+          "difficulty": "Medium",
+          "pageReference": "Page 6"
+        },
+        {
+          "id": "gen-q-1793074433860-fallback-1",
+          "question": "In computational complexity analysis, what distinguishes a greedy algorithm from dynamic programming?",
+          "options": [
+            "A greedy algorithm makes the locally optimal choice at each stage without re-evaluating previous decisions, whereas DP examines subproblems comprehensively.",
+            "Greedy algorithms always run in O(N!) factorial time.",
+            "Dynamic programming requires adjacency matrices.",
+            "Greedy algorithms cannot be implemented iteratively."
+          ],
+          "correctAnswer": 0,
+          "explanation": "Greedy algorithms make a irrevocably local optimal choice hoping for a global optimum. Dynamic programming solves overlapping subproblems by memoizing states.",
+          "topic": "Greedy vs Dynamic Programming",
+          "difficulty": "Medium",
+          "pageReference": "Section 1"
+        }
+      ],
+      "generatedBy": "edupilot-deterministic-engine"
+    },
+    {
+      "id": "quiz-dijkstra",
+      "materialId": "mat-demo-1",
+      "title": "Dijkstra & Graph Shortest Paths (AI Revision)",
+      "subject": "Algorithms",
+      "difficulty": "Medium",
+      "duration": "10 mins",
+      "isTargetedRevision": true,
+      "weakTopicTarget": "Graph Traversal & Shortest Path (Dijkstra's Algorithm)",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "Why does standard Dijkstra's algorithm fail when a graph contains negative-weight edge cycles?",
+          "options": [
+            "It causes distances to continuously decrease without convergence, violating greedy settlement invariants.",
+            "The priority queue becomes corrupted with negative keys.",
+            "It visits vertices in random topological order instead of by distance.",
+            "It requires adjacency matrices and cannot support negative weights."
+          ],
+          "correctAnswer": 0,
+          "explanation": "Dijkstra's greedy choice assumes that once a node is extracted from the Priority Queue, no shorter path to it will ever be discovered. Negative cycles violate this optimal substructure invariant.",
+          "topic": "Dijkstra Negative Edges",
+          "pageReference": "Page 4"
+        },
+        {
+          "id": "q2",
+          "question": "What is the optimal time complexity of Dijkstra's algorithm implemented with a Min-Heap (Binary Heap) for a graph with V vertices and E edges?",
+          "options": [
+            "O(V^2)",
+            "O((V + E) log V)",
+            "O(V * E)",
+            "O(E log E + V)"
+          ],
+          "correctAnswer": 1,
+          "explanation": "Each vertex is extracted from the min-heap once (O(V log V)) and each edge relaxation can trigger a decrease-key operation in the heap (O(E log V)), yielding total time complexity O((V + E) log V).",
+          "topic": "Heap Complexity",
+          "pageReference": "Page 6"
+        },
+        {
+          "id": "q3",
+          "question": "Which algorithm should be preferred over Dijkstra if the graph is a Directed Acyclic Graph (DAG) with possible negative edge weights?",
+          "options": [
+            "Bellman-Ford in O(V * E)",
+            "Topological Sort Shortest Path in O(V + E)",
+            "Floyd-Warshall in O(V^3)",
+            "Prim's Minimum Spanning Tree"
+          ],
+          "correctAnswer": 1,
+          "explanation": "In a DAG, vertices can be topologically sorted in O(V + E) time, and relaxing edges in topological order computes single-source shortest paths in linear O(V + E) time, even with negative weights.",
+          "topic": "DAG Shortest Path",
+          "pageReference": "Page 9"
+        },
+        {
+          "id": "q4",
+          "question": "In Dijkstra's algorithm, what does relaxing an edge (u, v) with weight w actually mean?",
+          "options": [
+            "Checking if dist[u] + w < dist[v], and if so, updating dist[v] = dist[u] + w.",
+            "Deleting the edge (u, v) if dist[v] is already shorter.",
+            "Swapping vertices u and v in the priority queue.",
+            "Normalizing weights by subtracting the minimum edge weight."
+          ],
+          "correctAnswer": 0,
+          "explanation": "Edge relaxation evaluates whether routing through vertex u provides a shorter path to vertex v than previously known, updating dist[v] and the priority queue accordingly.",
+          "topic": "Edge Relaxation",
+          "pageReference": "Page 3"
+        },
+        {
+          "id": "q5",
+          "question": "How does the A* Search algorithm optimize standard Dijkstra's algorithm for finding the shortest path to a single target destination?",
+          "options": [
+            "It uses Fibonacci heaps instead of binary heaps.",
+            "It adds an admissible heuristic h(n) estimating the distance from node n to the target.",
+            "It converts the graph into a spanning tree before searching.",
+            "It avoids edge relaxation completely."
+          ],
+          "correctAnswer": 1,
+          "explanation": "A* uses the evaluation function f(n) = g(n) + h(n), where g(n) is the cost from start to n and h(n) is an admissible heuristic directing the search frontier towards the goal.",
+          "topic": "A* Heuristic",
+          "pageReference": "Page 12"
+        }
+      ]
+    }
+  ],
+  "attempts": [
+    {
+      "id": "att-fu-1793091101269",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": null,
+      "followUpQuestionId": "fu-loop-1793091101269",
+      "subject": "Computer Science",
+      "topic": "Adaptive Graph Testing",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T08:51:41.269Z"
+    },
+    {
+      "id": "att-fu-1793091101266",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijkstra-1",
+      "followUpQuestionId": "fu-test-1793091101264",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 0,
+      "totalQuestions": 1,
+      "correctCount": 0,
+      "submittedAnswer": 1,
+      "serverCorrectAnswer": 0,
+      "isCorrect": false,
+      "submittedAt": "2026-10-27T08:51:41.266Z"
+    },
+    {
+      "id": "att-fu-1793091101265",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijkstra-1",
+      "followUpQuestionId": "fu-test-1793091101264",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T08:51:41.265Z"
+    },
+    {
+      "id": "att-fu-1793090202705",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijk-1",
+      "followUpQuestionId": "fu-dijkstra-variant-1",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T08:36:42.705Z"
+    },
+    {
+      "id": "att-1793090202684",
+      "quizId": "quiz-dijkstra",
+      "subject": "Algorithms",
+      "topic": "Graph Traversal & Shortest Path (Dijkstra's Algorithm)",
+      "attemptType": "post-revision",
+      "score": 100,
+      "totalQuestions": 5,
+      "correctCount": 5,
+      "timeSpentSeconds": 95,
+      "submittedAt": "2026-10-27T08:36:42.684Z",
+      "answers": {
+        "q1": 0,
+        "q2": 1,
+        "q3": 1,
+        "q4": 0,
+        "q5": 1
+      }
+    },
+    {
+      "id": "att-fu-1793090095355",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": null,
+      "followUpQuestionId": "fu-loop-1793090095355",
+      "subject": "Computer Science",
+      "topic": "Adaptive Graph Testing",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T08:34:55.355Z"
+    },
+    {
+      "id": "att-fu-1793090095352",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijkstra-1",
+      "followUpQuestionId": "fu-test-1793090095350",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 0,
+      "totalQuestions": 1,
+      "correctCount": 0,
+      "submittedAnswer": 1,
+      "serverCorrectAnswer": 0,
+      "isCorrect": false,
+      "submittedAt": "2026-10-27T08:34:55.352Z"
+    },
+    {
+      "id": "att-fu-1793090095350",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijkstra-1",
+      "followUpQuestionId": "fu-test-1793090095350",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T08:34:55.350Z"
+    },
+    {
+      "id": "att-fu-1793083163551",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijk-1",
+      "followUpQuestionId": "fu-dijkstra-variant-1",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T06:39:23.551Z"
+    },
+    {
+      "id": "att-1793083163539",
+      "quizId": "quiz-dijkstra",
+      "subject": "Algorithms",
+      "topic": "Graph Traversal & Shortest Path (Dijkstra's Algorithm)",
+      "attemptType": "post-revision",
+      "score": 100,
+      "totalQuestions": 5,
+      "correctCount": 5,
+      "timeSpentSeconds": 95,
+      "submittedAt": "2026-10-27T06:39:23.539Z",
+      "answers": {
+        "q1": 0,
+        "q2": 1,
+        "q3": 1,
+        "q4": 0,
+        "q5": 1
+      }
+    },
+    {
+      "id": "att-fu-1793082768436",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijk-1",
+      "followUpQuestionId": "fu-dijkstra-variant-1",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T06:32:48.436Z"
+    },
+    {
+      "id": "att-1793082768415",
+      "quizId": "quiz-dijkstra",
+      "subject": "Algorithms",
+      "topic": "Graph Traversal & Shortest Path (Dijkstra's Algorithm)",
+      "attemptType": "post-revision",
+      "score": 100,
+      "totalQuestions": 5,
+      "correctCount": 5,
+      "timeSpentSeconds": 95,
+      "submittedAt": "2026-10-27T06:32:48.415Z",
+      "answers": {
+        "q1": 0,
+        "q2": 1,
+        "q3": 1,
+        "q4": 0,
+        "q5": 1
+      }
+    },
+    {
+      "id": "att-fu-1793081286032",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijk-1",
+      "followUpQuestionId": "fu-dijkstra-variant-1",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T06:08:06.032Z"
+    },
+    {
+      "id": "att-1793081286021",
+      "quizId": "quiz-dijkstra",
+      "subject": "Algorithms",
+      "topic": "Graph Traversal & Shortest Path (Dijkstra's Algorithm)",
+      "attemptType": "post-revision",
+      "score": 100,
+      "totalQuestions": 5,
+      "correctCount": 5,
+      "timeSpentSeconds": 95,
+      "submittedAt": "2026-10-27T06:08:06.021Z",
+      "answers": {
+        "q1": 0,
+        "q2": 1,
+        "q3": 1,
+        "q4": 0,
+        "q5": 1
+      }
+    },
+    {
+      "id": "att-fu-1793081227087",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijk-1",
+      "followUpQuestionId": "fu-dijkstra-variant-1",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T06:07:07.087Z"
+    },
+    {
+      "id": "att-1793081227069",
+      "quizId": "quiz-dijkstra",
+      "subject": "Algorithms",
+      "topic": "Graph Traversal & Shortest Path (Dijkstra's Algorithm)",
+      "attemptType": "post-revision",
+      "score": 100,
+      "totalQuestions": 5,
+      "correctCount": 5,
+      "timeSpentSeconds": 95,
+      "submittedAt": "2026-10-27T06:07:07.069Z",
+      "answers": {
+        "q1": 0,
+        "q2": 1,
+        "q3": 1,
+        "q4": 0,
+        "q5": 1
+      }
+    },
+    {
+      "id": "att-fu-1793080652841",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": null,
+      "followUpQuestionId": "fu-loop-1793080652840",
+      "subject": "Computer Science",
+      "topic": "Adaptive Graph Testing",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T05:57:32.841Z"
+    },
+    {
+      "id": "att-fu-1793080652838",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijkstra-1",
+      "followUpQuestionId": "fu-test-1793080652834",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 0,
+      "totalQuestions": 1,
+      "correctCount": 0,
+      "submittedAnswer": 1,
+      "serverCorrectAnswer": 0,
+      "isCorrect": false,
+      "submittedAt": "2026-10-27T05:57:32.838Z"
+    },
+    {
+      "id": "att-fu-1793080652835",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijkstra-1",
+      "followUpQuestionId": "fu-test-1793080652834",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T05:57:32.835Z"
+    },
+    {
+      "id": "att-1793080487794",
+      "quizId": "quiz-dijkstra",
+      "subject": "Algorithms",
+      "topic": "Graph Traversal & Shortest Path (Dijkstra's Algorithm)",
+      "attemptType": "post-revision",
+      "score": 60,
+      "totalQuestions": 5,
+      "correctCount": 3,
+      "timeSpentSeconds": 92,
+      "submittedAt": "2026-10-27T05:54:47.794Z",
+      "answers": {
+        "q1": 0,
+        "q2": 1,
+        "q3": 0,
+        "q4": 1,
+        "q5": 1
+      }
+    },
+    {
+      "id": "att-fu-1793080472537",
+      "quizId": "quiz-dijkstra",
+      "originalQuestionId": "q4",
+      "followUpQuestionId": "fu-dijkstra-variant-1",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 0,
+      "totalQuestions": 1,
+      "correctCount": 0,
+      "submittedAnswer": 2,
+      "serverCorrectAnswer": 0,
+      "isCorrect": false,
+      "submittedAt": "2026-10-27T05:54:32.537Z"
+    },
+    {
+      "id": "att-fu-1793080450408",
+      "quizId": "quiz-dijkstra",
+      "originalQuestionId": "q3",
+      "followUpQuestionId": "fu-dijkstra-variant-1",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T05:54:10.408Z"
+    },
+    {
+      "id": "att-fu-1793080266980",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijk-1",
+      "followUpQuestionId": "fu-dijkstra-variant-1",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T05:51:06.980Z"
+    },
+    {
+      "id": "att-1793080266969",
+      "quizId": "quiz-dijkstra",
+      "subject": "Algorithms",
+      "topic": "Graph Traversal & Shortest Path (Dijkstra's Algorithm)",
+      "attemptType": "post-revision",
+      "score": 100,
+      "totalQuestions": 5,
+      "correctCount": 5,
+      "timeSpentSeconds": 95,
+      "submittedAt": "2026-10-27T05:51:06.969Z",
+      "answers": {
+        "q1": 0,
+        "q2": 1,
+        "q3": 1,
+        "q4": 0,
+        "q5": 1
+      }
+    },
+    {
+      "id": "att-fu-1793080249694",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijk-1",
+      "followUpQuestionId": "fu-dijkstra-variant-1",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T05:50:49.694Z"
+    },
+    {
+      "id": "att-1793080249670",
+      "quizId": "quiz-dijkstra",
+      "subject": "Algorithms",
+      "topic": "Graph Traversal & Shortest Path (Dijkstra's Algorithm)",
+      "attemptType": "post-revision",
+      "score": 100,
+      "totalQuestions": 5,
+      "correctCount": 5,
+      "timeSpentSeconds": 95,
+      "submittedAt": "2026-10-27T05:50:49.670Z",
+      "answers": {
+        "q1": 0,
+        "q2": 1,
+        "q3": 1,
+        "q4": 0,
+        "q5": 1
+      }
+    },
+    {
+      "id": "att-fu-1793080145354",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijk-1",
+      "followUpQuestionId": "fu-dijkstra-variant-1",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T05:49:05.354Z"
+    },
+    {
+      "id": "att-fu-1793079145237",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": null,
+      "followUpQuestionId": "fu-loop-1793079145236",
+      "subject": "Computer Science",
+      "topic": "Adaptive Graph Testing",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T05:32:25.237Z"
+    },
+    {
+      "id": "att-fu-1793079145235",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijkstra-1",
+      "followUpQuestionId": "fu-test-1793079145233",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 0,
+      "totalQuestions": 1,
+      "correctCount": 0,
+      "submittedAnswer": 1,
+      "serverCorrectAnswer": 0,
+      "isCorrect": false,
+      "submittedAt": "2026-10-27T05:32:25.235Z"
+    },
+    {
+      "id": "att-fu-1793079145234",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijkstra-1",
+      "followUpQuestionId": "fu-test-1793079145233",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T05:32:25.234Z"
+    },
+    {
+      "id": "att-fu-1793079097379",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijkstra-1",
+      "followUpQuestionId": "fu-test-1793079097377",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 0,
+      "totalQuestions": 1,
+      "correctCount": 0,
+      "submittedAnswer": 1,
+      "serverCorrectAnswer": 0,
+      "isCorrect": false,
+      "submittedAt": "2026-10-27T05:31:37.379Z"
+    },
+    {
+      "id": "att-fu-1793079097378",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q-dijkstra-1",
+      "followUpQuestionId": "fu-test-1793079097377",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T05:31:37.378Z"
+    },
+    {
+      "id": "att-fu-1793078392924",
+      "quizId": "misconception-coaching",
+      "originalQuestionId": "q1",
+      "followUpQuestionId": "fu-dijkstra-variant-1",
+      "subject": "Computer Science",
+      "topic": "Dijkstra Greedy Invariant",
+      "attemptType": "misconception-followup",
+      "score": 100,
+      "totalQuestions": 1,
+      "correctCount": 1,
+      "submittedAnswer": 0,
+      "serverCorrectAnswer": 0,
+      "isCorrect": true,
+      "submittedAt": "2026-10-27T05:19:52.924Z"
+    },
+    {
+      "id": "att-1793075153374",
+      "quizId": "quiz-gen-1793075135297",
+      "subject": "Computer Science",
+      "topic": "Transactions & Concurrency Control Adaptive Quiz",
+      "attemptType": "post-revision",
+      "score": 100,
+      "totalQuestions": 2,
+      "correctCount": 2,
+      "timeSpentSeconds": 120,
+      "submittedAt": "2026-10-27T04:25:53.374Z",
+      "answers": {
+        "gen-q-1793075135297-5": 0,
+        "gen-q-1793075135297-fallback-1": 0
+      }
+    },
+    {
+      "id": "att-1793075142396",
+      "quizId": "quiz-gen-1793075135297",
+      "subject": "Computer Science",
+      "topic": "Transactions & Concurrency Control Adaptive Quiz",
+      "attemptType": "pre-revision",
+      "score": 0,
+      "totalQuestions": 2,
+      "correctCount": 0,
+      "timeSpentSeconds": 120,
+      "submittedAt": "2026-10-27T04:25:42.396Z",
+      "answers": {
+        "gen-q-1793075135297-5": 1,
+        "gen-q-1793075135297-fallback-1": 1
+      }
+    },
+    {
+      "id": "att-1793074433875",
+      "quizId": "quiz-dijkstra",
+      "subject": "Algorithms",
+      "topic": "Graph Traversal & Shortest Path (Dijkstra's Algorithm)",
+      "attemptType": "post-revision",
+      "score": 100,
+      "totalQuestions": 5,
+      "correctCount": 5,
+      "timeSpentSeconds": 180,
+      "submittedAt": "2026-10-27T04:13:53.875Z",
+      "answers": {
+        "q1": 0,
+        "q2": 1,
+        "q3": 1,
+        "q4": 0,
+        "q5": 1
+      }
+    },
+    {
+      "id": "att-initial-1",
+      "quizId": "quiz-dijkstra",
+      "subject": "Algorithms",
+      "topic": "Graph Traversal & Shortest Path (Dijkstra's Algorithm)",
+      "attemptType": "pre-revision",
+      "score": 58,
+      "totalQuestions": 5,
+      "correctCount": 2.9,
+      "timeSpentSeconds": 420,
+      "submittedAt": "2026-10-26T16:00:00.000Z",
+      "answers": {
+        "q1": 1,
+        "q2": 1,
+        "q3": 0,
+        "q4": 0,
+        "q5": 2
+      }
+    }
+  ],
+  "topicMastery": {
+    "Data Structures": {
+      "subject": "Data Structures",
+      "code": "CS-201",
+      "attempts": 8,
+      "correct": 7,
+      "accuracy": 85,
+      "masteryLevel": "Strong",
+      "status": "Advanced",
+      "lastPracticed": "2026-10-27T06:00:00.000Z"
+    },
+    "Algorithms": {
+      "subject": "Algorithms",
+      "code": "CS-204",
+      "attempts": 6,
+      "correct": 4,
+      "accuracy": 68,
+      "masteryLevel": "Developing",
+      "status": "Intermediate",
+      "lastPracticed": "2026-10-26T16:00:00.000Z"
+    },
+    "Database Systems": {
+      "subject": "Database Systems",
+      "code": "CS-305",
+      "attempts": 9,
+      "correct": 8,
+      "accuracy": 92,
+      "masteryLevel": "Strong",
+      "status": "Mastered",
+      "lastPracticed": "2026-10-25T11:00:00.000Z"
+    },
+    "Operating Systems": {
+      "subject": "Operating Systems",
+      "code": "CS-301",
+      "attempts": 5,
+      "correct": 3,
+      "accuracy": 60,
+      "masteryLevel": "Developing",
+      "status": "Needs Review",
+      "lastPracticed": "2026-10-24T18:00:00.000Z"
+    },
+    "Graph Traversal & Shortest Path (Dijkstra's Algorithm)": {
+      "subject": "Algorithms",
+      "code": "CS-204",
+      "attempts": 10,
+      "correct": 9,
+      "accuracy": 90,
+      "masteryLevel": "Strong",
+      "status": "Weak Topic",
+      "lastPracticed": "2026-10-27T08:36:42.687Z"
+    },
+    "Computer Science": {
+      "subject": "Computer Science",
+      "code": "CS",
+      "attempts": 2,
+      "correct": 1,
+      "accuracy": 50,
+      "masteryLevel": "Developing",
+      "lastPracticed": "2026-10-27T04:25:53.375Z"
+    },
+    "Dijkstra Greedy Invariant": {
+      "subject": "Computer Science",
+      "code": "CS",
+      "attempts": 21,
+      "correct": 15,
+      "accuracy": 71,
+      "masteryLevel": "Developing",
+      "lastPracticed": "2026-10-27T08:51:41.266Z"
+    },
+    "Adaptive Graph Testing": {
+      "subject": "Computer Science",
+      "code": "CS",
+      "attempts": 4,
+      "correct": 4,
+      "accuracy": 100,
+      "masteryLevel": "Strong",
+      "lastPracticed": "2026-10-27T08:51:41.269Z"
+    }
+  },
+  "studyTasks": [
+    {
+      "id": "task-gen-1793075173455-0",
+      "title": "Master Computer Science Invariants",
+      "subject": "Computer Science",
+      "time": "04:00 PM Today",
+      "priority": "Medium",
+      "duration": "35 mins",
+      "durationMinutes": 35,
+      "completed": true,
+      "reason": "Targeting 50% accuracy retention dip before Fall 2026 CS Finals."
+    },
+    {
+      "id": "task-gen-1793075173455-1",
+      "title": "Master Operating Systems Invariants",
+      "subject": "Operating Systems",
+      "time": "05:30 PM Today",
+      "priority": "Medium",
+      "duration": "25 mins",
+      "durationMinutes": 25,
+      "completed": false,
+      "reason": "Targeting 60% accuracy retention dip before Fall 2026 CS Finals."
+    },
+    {
+      "id": "task-gen-1793075173455-2",
+      "title": "Master Algorithms Invariants",
+      "subject": "Algorithms",
+      "time": "07:00 PM Today",
+      "priority": "Medium",
+      "duration": "25 mins",
+      "durationMinutes": 25,
+      "completed": false,
+      "reason": "Targeting 68% accuracy retention dip before Fall 2026 CS Finals."
+    },
+    {
+      "id": "task-gen-1793074433900-0",
+      "title": "Master Operating Systems Invariants",
+      "subject": "Operating Systems",
+      "time": "04:00 PM Today",
+      "priority": "Medium",
+      "duration": "25 mins",
+      "durationMinutes": 25,
+      "completed": false,
+      "reason": "Targeting 60% accuracy retention dip before Fall 2026 CS Finals."
+    },
+    {
+      "id": "task-gen-1793074433900-1",
+      "title": "Master Algorithms Invariants",
+      "subject": "Algorithms",
+      "time": "05:30 PM Today",
+      "priority": "Medium",
+      "duration": "25 mins",
+      "durationMinutes": 25,
+      "completed": false,
+      "reason": "Targeting 68% accuracy retention dip before Fall 2026 CS Finals."
+    }
+  ],
+  "tutorHistory": [],
+  "followUpQuestions": {
+    "fu-dijkstra-variant-1": {
+      "id": "fu-dijkstra-variant-1",
+      "question": "Suppose a directed graph has an edge with weight -3, but contains NO negative cycles. If standard Dijkstra's algorithm is executed, what behavior can occur?",
+      "options": [
+        "It may output an incorrect shortest distance because an already settled vertex is never re-opened in standard Dijkstra.",
+        "It is guaranteed to enter an infinite loop and run indefinitely.",
+        "It automatically runs in O(V) linear time.",
+        "It always computes the true shortest distance as long as there are no negative cycles."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Dijkstra's greedy choice property assumes that once a vertex is extracted from the priority queue, its distance is finalized. A negative edge can cause a later path to have smaller total weight, breaking this invariant even without negative cycles.",
+      "topic": "Dijkstra Greedy Invariant",
+      "difficulty": "Medium",
+      "originalQuestionId": "q-grounded-coach"
+    },
+    "fu-test-1793079097377": {
+      "id": "fu-test-1793079097377",
+      "question": "Which condition causes Dijkstra to output an incorrect shortest distance?",
+      "options": [
+        "A negative edge that provides a cheaper path to an already settled vertex.",
+        "A tree with depth greater than 10 levels.",
+        "A directed acyclic graph.",
+        "A vertex with degree 0."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Settled vertices are not re-opened in standard Dijkstra.",
+      "topic": "Dijkstra Greedy Invariant"
+    },
+    "fu-test-1793079145233": {
+      "id": "fu-test-1793079145233",
+      "question": "Which condition causes Dijkstra to output an incorrect shortest distance?",
+      "options": [
+        "A negative edge that provides a cheaper path to an already settled vertex.",
+        "A tree with depth greater than 10 levels.",
+        "A directed acyclic graph.",
+        "A vertex with degree 0."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Settled vertices are not re-opened in standard Dijkstra.",
+      "topic": "Dijkstra Greedy Invariant"
+    },
+    "fu-loop-1793079145236": {
+      "id": "fu-loop-1793079145236",
+      "question": "Test question for loop verification?",
+      "options": [
+        "Correct",
+        "Wrong 1",
+        "Wrong 2",
+        "Wrong 3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct explanation",
+      "topic": "Adaptive Graph Testing"
+    },
+    "fu-test-1793080652834": {
+      "id": "fu-test-1793080652834",
+      "question": "Which condition causes Dijkstra to output an incorrect shortest distance?",
+      "options": [
+        "A negative edge that provides a cheaper path to an already settled vertex.",
+        "A tree with depth greater than 10 levels.",
+        "A directed acyclic graph.",
+        "A vertex with degree 0."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Settled vertices are not re-opened in standard Dijkstra.",
+      "topic": "Dijkstra Greedy Invariant"
+    },
+    "fu-loop-1793080652840": {
+      "id": "fu-loop-1793080652840",
+      "question": "Test question for loop verification?",
+      "options": [
+        "Correct",
+        "Wrong 1",
+        "Wrong 2",
+        "Wrong 3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct explanation",
+      "topic": "Adaptive Graph Testing"
+    },
+    "fu-test-1793090095350": {
+      "id": "fu-test-1793090095350",
+      "question": "Which condition causes Dijkstra to output an incorrect shortest distance?",
+      "options": [
+        "A negative edge that provides a cheaper path to an already settled vertex.",
+        "A tree with depth greater than 10 levels.",
+        "A directed acyclic graph.",
+        "A vertex with degree 0."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Settled vertices are not re-opened in standard Dijkstra.",
+      "topic": "Dijkstra Greedy Invariant"
+    },
+    "fu-loop-1793090095355": {
+      "id": "fu-loop-1793090095355",
+      "question": "Test question for loop verification?",
+      "options": [
+        "Correct",
+        "Wrong 1",
+        "Wrong 2",
+        "Wrong 3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct explanation",
+      "topic": "Adaptive Graph Testing"
+    },
+    "fu-test-1793091101264": {
+      "id": "fu-test-1793091101264",
+      "question": "Which condition causes Dijkstra to output an incorrect shortest distance?",
+      "options": [
+        "A negative edge that provides a cheaper path to an already settled vertex.",
+        "A tree with depth greater than 10 levels.",
+        "A directed acyclic graph.",
+        "A vertex with degree 0."
+      ],
+      "correctAnswer": 0,
+      "explanation": "Settled vertices are not re-opened in standard Dijkstra.",
+      "topic": "Dijkstra Greedy Invariant"
+    },
+    "fu-loop-1793091101269": {
+      "id": "fu-loop-1793091101269",
+      "question": "Test question for loop verification?",
+      "options": [
+        "Correct",
+        "Wrong 1",
+        "Wrong 2",
+        "Wrong 3"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Correct explanation",
+      "topic": "Adaptive Graph Testing"
+    }
+  }
+}
